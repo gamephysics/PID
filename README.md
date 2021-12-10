@@ -4,8 +4,7 @@
 
 타겟의 위치와 미사일의 위치 차이를 기반으로 추적하는 듯한 이동 궤적을 만들어 냅니다.
 
-<img src="./Assets/Art/ScreenShot.jpg" width="50%" height="50%"></img>
-
+https://user-images.githubusercontent.com/1701385/145531003-fab29bbf-322a-473d-8fce-590ce7fab9fd.mp4
 
 ## Youtube
 
