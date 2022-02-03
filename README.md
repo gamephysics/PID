@@ -8,8 +8,7 @@ https://user-images.githubusercontent.com/1701385/145531003-fab29bbf-322a-473d-8
 
 ## Youtube
 
-https://www.youtube.com/watch?v=IXtbk1BtUIA
-
+[![Video Label](https://img.youtube.com/vi/IXtbk1BtUIA/0.jpg)](https://youtu.be/IXtbk1BtUIA)
 
 ## Compile
 
